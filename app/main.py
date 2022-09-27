@@ -21,13 +21,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-
-
-
-
-
-
 # fetch('http://localhost:8000/').then(res=>res.json()).then(console.log)
 ###########################################################################################
 
