@@ -29,7 +29,7 @@ app.add_middleware(
 ################################ without sql ####################################################
 @app.get("/")
 def root():
-    return {"message" : "Hello world heroku n git"}
+    return {"message" : "Hello world  so far do good"}
 
 ################################ xxxxxxx ####################################################
 
